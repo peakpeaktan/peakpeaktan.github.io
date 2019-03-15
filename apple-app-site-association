@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+        {
+            "appID" : "QYRQ3GU6GA.com.roamdata.clientapp",
+            "paths": ["*"]
+        }
+        ]
+    }
+}
