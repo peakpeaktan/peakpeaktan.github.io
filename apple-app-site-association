@@ -3,9 +3,21 @@
         "apps": [],
         "details": [
         {
-            "appID" : "QYRQ3GU6GA.com.roamdata.clientapp",
-            "paths": ["*"]
-        }
+		                "appID": "QYRQ3GU6GA.com.roamdata.roampayx",
+		                "paths": ["*"]
+		            },
+		            {
+		                "appID": "UG8D3D384Z.com.roamdata.roampayx",
+		                "paths": ["*"]
+		            },
+		            {
+		                "appID": "6LPW7G8454.com.roamdata.roampayx",
+		                "paths": ["*"]
+		            },
+				{
+		                "appID": "5YQ68K6CV9.com.roamdata.roampayx",
+		                "paths": ["*"]
+		            }
         ]
     }
 }
