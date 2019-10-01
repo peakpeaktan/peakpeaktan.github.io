@@ -4,19 +4,19 @@
         "details": [
         {
 		                "appID": "QYRQ3GU6GA.com.roamdata.roampayx",
-		                "paths": ["peakpeaktan.github.io"]
+		                "paths": ["peakpeaktan.github.io/*"]
 		            },
 		            {
 		                "appID": "UG8D3D384Z.com.roamdata.roampayx",
-		                "paths": ["peakpeaktan.github.io"]
+		                "paths": ["peakpeaktan.github.io/*"]
 		            },
 		            {
 		                "appID": "6LPW7G8454.com.roamdata.roampayx",
-		                "paths": ["peakpeaktan.github.io"]
+		                "paths": ["peakpeaktan.github.io/*"]
 		            },
 				{
 		                "appID": "5YQ68K6CV9.com.roamdata.roampayx",
-		                "paths": ["peakpeaktan.github.io"]
+		                "paths": ["peakpeaktan.github.io/*"]
 		            }
         ]
     }
